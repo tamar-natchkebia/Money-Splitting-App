@@ -1,18 +1,18 @@
-# SplitSmart 💸
+# SplitSmart 
 
 SplitSmart is a simple and intuitive bill-splitting app that helps you track shared expenses with friends and keep balances clear and fair.  
 It’s designed to make splitting bills stress-free while keeping friendships intact.
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 👉 https://YOUR-NETLIFY-URL.netlify.app  
 
 
 ---
 
-## ✨ Features
+##  Features
 
 -  Add and manage friends
 -  Search friends by name
