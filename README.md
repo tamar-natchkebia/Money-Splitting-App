@@ -7,7 +7,7 @@ It’s designed to make splitting bills stress-free while keeping friendships in
 
 ##  Live Demo
 
-👉 https://YOUR-NETLIFY-URL.netlify.app  
+👉 split-moeny-tracker.netlify.app
 
 
 ---
